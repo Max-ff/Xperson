@@ -1,0 +1,61 @@
+.menu {
+	font-weight: bold;
+	color: white;
+	background-color: #45015d;
+	padding: 10px 20px;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 150px;
+	height: 100%;
+}
+.menu a {
+	color: inherit;
+	display: block;
+	padding: 8 16;
+	text-decoration: none;
+
+}
+.menu a:hover {
+	background-color: white;
+	color: black;
+
+}
+h1{
+	font-weight: 400;
+	font-size: 64px;
+}
+.main {
+	margin: 80px 40px 0 360px;
+}
+body {
+	margin: 0px;
+	font-family: "Poppins", sans-serif;
+	font-size: 16px;
+	line-height: 1.5;
+}
+.images img {
+	width: 45%;
+	border-radius: 10px;
+	margin: 5px;
+	opacity: 0.7;
+	height: 300px;
+}
+hr {
+	width: 100%;
+	border: 5px solid #45015d;
+	border-radius: 10px;
+	margin: 20px 0;
+}
+.images img:hover {
+	opacity: 1;
+}
+.history {
+	margin: 80px 40px 0 360px;
+}
+.trophies {
+	margin: 80px 40px 0 360px;
+}
+.team {
+	margin: 80px 40px 0 360px;
+}
